@@ -1,0 +1,21 @@
+.judul {
+    font-size: 25px;
+    line-height: 12px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif strong;
+    margin-left: 45px;
+    font-weight: bold;
+}
+
+.paragraph {
+    font-size: 14px;
+    line-height: 24px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 10px;
+}
+
+.footer {
+    font-size: 14px;
+    line-height: 24px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 10px;
+}
